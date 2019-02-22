@@ -1,4 +1,4 @@
-#This yaml will use the Datera CSI plugin and dynamically provision storage in the backend
+#This yaml will use the Datera CSI plugin and dynamically provision storage in the backend. This will create 3 pods
 apiVersion: v1
 kind: Service
 metadata:
